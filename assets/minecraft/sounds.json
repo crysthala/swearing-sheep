@@ -1,0 +1,64 @@
+{
+  "entity.sheep.ambient": {
+    "sounds": [
+      "mob/sheep/say1",
+      "mob/sheep/say2",
+      "mob/sheep/say3",
+      "mob/sheep/bitch",
+      "mob/sheep/bollocks",
+      "mob/sheep/bullshit",
+      "mob/sheep/dammit",
+      "mob/sheep/fuck",
+      "mob/sheep/goddamn",
+      "mob/sheep/motherfucker",
+      "mob/sheep/prick",
+      "mob/sheep/shit",
+      "mob/sheep/sonofabitch",
+      "mob/sheep/tits",
+      "mob/sheep/wanker"
+    ],
+    "subtitle": "subtitles.entity.sheep.ambient"
+  },
+
+  "entity.sheep.death": {
+    "sounds": [
+      "mob/sheep/say1",
+      "mob/sheep/say2",
+      "mob/sheep/say3",
+      "mob/sheep/bitch",
+      "mob/sheep/bollocks",
+      "mob/sheep/bullshit",
+      "mob/sheep/dammit",
+      "mob/sheep/fuck",
+      "mob/sheep/goddamn",
+      "mob/sheep/motherfucker",
+      "mob/sheep/prick",
+      "mob/sheep/shit",
+      "mob/sheep/sonofabitch",
+      "mob/sheep/tits",
+      "mob/sheep/wanker"
+    ],
+    "subtitle": "subtitles.entity.sheep.death"
+  },
+
+  "entity.sheep.hurt": {
+    "sounds": [
+      "mob/sheep/say1",
+      "mob/sheep/say2",
+      "mob/sheep/say3",
+      "mob/sheep/bitch",
+      "mob/sheep/bollocks",
+      "mob/sheep/bullshit",
+      "mob/sheep/dammit",
+      "mob/sheep/fuck",
+      "mob/sheep/goddamn",
+      "mob/sheep/motherfucker",
+      "mob/sheep/prick",
+      "mob/sheep/shit",
+      "mob/sheep/sonofabitch",
+      "mob/sheep/tits",
+      "mob/sheep/wanker"
+    ],
+    "subtitle": "subtitles.entity.sheep.hurt"
+  }
+}
